@@ -37,6 +37,6 @@ The dashboard is designed to answer the following key business questions:
 
 Here is the **Blinkit Sales Dashboard** built in Power BI:  
 
-![Blinkit Dashboard]()  
+![Blinkit Dashboard](https://github.com/VenkateshAdusumalli/BlinkIt-Dashboard/blob/main/BlinkIt%20Dashboard%20Screenshot.png)  
 
 
