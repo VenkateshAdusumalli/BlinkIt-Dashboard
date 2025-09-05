@@ -31,5 +31,12 @@ The dashboard is designed to answer the following key business questions:
    - Total sales  
    - Average sales  
    - Number of items  
-   - Customer ratings  
+   - Customer ratings
+
+## Dashboard  
+
+Here is the **Blinkit Sales Dashboard** built in Power BI:  
+
+![Blinkit Dashboard]()  
+
 
