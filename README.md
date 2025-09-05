@@ -39,4 +39,33 @@ Here is the **Blinkit Sales Dashboard** built in Power BI:
 
 ![Blinkit Dashboard](https://github.com/VenkateshAdusumalli/BlinkIt-Dashboard/blob/main/BlinkIt%20Dashboard%20Screenshot.png)  
 
+## Process of the Project  
+
+The following steps were followed to create the **Blinkit Sales Dashboard**:  
+
+1. **Data Collection**  
+   - Obtained the Blinkit sales dataset containing details about items, outlets, sales, and ratings.  
+
+2. **Data Cleaning & Preparation**  
+   - Handled missing values.  
+   - Removed duplicates.  
+   - Standardized categorical values (e.g., Outlet Size, Item Type, Fat Content).  
+   - Converted data into a clean tabular format for analysis.  
+
+3. **Data Analysis**  
+   - Explored sales patterns across different outlets.  
+   - Identified relationships between item types, fat content, and sales.  
+   - Analyzed outlet performance based on size, type, and location.  
+
+4. **Dashboard Design in Power BI**  
+   - Created calculated columns and measures for KPIs (e.g., Total Sales, Average Sales, Number of Items).  
+   - Built charts such as bar charts, donut charts, and line charts for insights.  
+   - Applied filters and slicers for interactivity (e.g., by outlet size, location type, or fat content).  
+
+5. **Visualization & Insights**  
+   - Designed an interactive, visually appealing dashboard.  
+   - Highlighted KPIs like **Total Sales, Average Sales, Number of Items, and Average Rating**.  
+   - Provided comparisons across outlet types, item categories, and years of establishment.  
+
+
 
